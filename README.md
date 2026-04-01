@@ -2,7 +2,7 @@
 A userscript that downloads the last selected RTVE subtitle track, in the original VTT format.
 
 <img width="490" height="387" alt="image" src="https://github.com/user-attachments/assets/0e713cd9-9df4-4d86-bf26-dafa06f49e59" /> 
-<img width="590" height="387" alt="image" src="https://github.com/user-attachments/assets/a487bfb7-4ee2-4106-a134-1a242698eb2e" />
+<img width="490" height="387" alt="image" src="https://github.com/user-attachments/assets/a487bfb7-4ee2-4106-a134-1a242698eb2e" />
 
 ## USAGE
 
