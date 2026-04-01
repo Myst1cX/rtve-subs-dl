@@ -13,4 +13,4 @@ A userscript that downloads the last selected RTVE subtitle track, in the origin
 
 ## LICENSE
 
-> This project is licensed under the [MIT License](https://github.com/Myst1cX/rtve-subs-dl/blob/main/LICENSE).
+> This project is licensed under the [GNU General Public License v2.0](https://github.com/Myst1cX/rtve-subs-dl/blob/main/LICENSE).
