@@ -9,8 +9,8 @@
 // @grant        none
 // @homepageURL  https://github.com/Myst1cX/rtve-subs-dl
 // @supportURL   https://github.com/Myst1cX/rtve-subs-dl/issues
-// @updateURL    https://raw.githubusercontent.com/Myst1cX/rtve-subs-dl/main/rtve-subs-dl.js
-// @downloadURL  https://raw.githubusercontent.com/Myst1cX/rtve-subs-dl/main/rtve-subs-dl.js
+// @updateURL    https://raw.githubusercontent.com/Myst1cX/rtve-subs-dl/main/rtve-subs-dl.user.js
+// @downloadURL  https://raw.githubusercontent.com/Myst1cX/rtve-subs-dl/main/rtve-subs-dl.user.js
 // ==/UserScript==
 
 //  You must first select the subtitle track before attempting to download it.  
